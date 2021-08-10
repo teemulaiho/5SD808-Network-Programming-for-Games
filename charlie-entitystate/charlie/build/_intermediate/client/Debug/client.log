@@ -1,1 +1,4 @@
-﻿  client.vcxproj -> C:\Users\teemu\Downloads\charlie-entitystate\charlie\client\..\build\client.debug.exe
+﻿  client_app.cc
+  main.cc
+  Generating Code...
+  client.vcxproj -> C:\Users\teemu\Downloads\5SD808-Network-Programming-for-Games\charlie-entitystate\charlie\client\..\build\client.debug.exe

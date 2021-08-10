@@ -1,2 +1,9 @@
-﻿  charlie_network.cc
-  charlie.vcxproj -> C:\Users\teemu\Downloads\charlie-entitystate\charlie\charlie\..\build\charlie.debug.lib
+﻿  charlie_application.cc
+  charlie_gameplay.cc
+  charlie_messages.cc
+  charlie_system.cc
+  charlie_network.cc
+  charlie_protocol.cc
+  winmain.cc
+  Generating Code...
+  charlie.vcxproj -> C:\Users\teemu\Downloads\5SD808-Network-Programming-for-Games\charlie-entitystate\charlie\charlie\..\build\charlie.debug.lib
